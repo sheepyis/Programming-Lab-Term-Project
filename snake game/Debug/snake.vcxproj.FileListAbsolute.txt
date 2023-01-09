@@ -1,0 +1,3 @@
+C:\Users\zx908\OneDrive\바탕 화면\snake\Debug\snake.exe
+C:\Users\zx908\OneDrive\바탕 화면\2021 수업\2021 1-2\프로그래밍랩\기말 텀프로젝트\Debug\snake.exe
+C:\Users\user\Desktop\univ\2021 1-2\프로그래밍랩\기말 텀프로젝트\Debug\snake.exe
